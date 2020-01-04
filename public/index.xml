@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>William Leithauser</title>
+    <link>https://leithauser.xyz/</link>
+    <description>Recent content on William Leithauser</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 04 Jan 2020 21:46:31 +0000</lastBuildDate>
+    
+        <atom:link href="https://leithauser.xyz/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+          <title>Test Post</title>
+          <link>https://leithauser.xyz/posts/test-post/</link>
+          <pubDate>Sat, 04 Jan 2020 21:46:31 &#43;0000</pubDate>
+          
+          <guid>https://leithauser.xyz/posts/test-post/</guid>
+          <description>Test title Test smaller title Test post, please ignore.</description>
+        </item>
+        <item>
+          <title>About</title>
+          <link>https://leithauser.xyz/about/</link>
+          <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+          
+          <guid>https://leithauser.xyz/about/</guid>
+          <description>I am a computer science student at the University of Cincinnati and aspiring open-source developer. You can contact me at leithawj@mail.uc.edu.</description>
+        </item>
+        <item>
+          <title>Projects</title>
+          <link>https://leithauser.xyz/projects/</link>
+          <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+          
+          <guid>https://leithauser.xyz/projects/</guid>
+          <description>Any interesting projects will appear here.</description>
+        </item>
+        
+  </channel>
+</rss>

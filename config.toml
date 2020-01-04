@@ -1,3 +1,47 @@
-baseURL = "http://example.org/"
+baseURL = "https://leithauser.xyz/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "William Leithauser"
+theme = "hugo-vitae"
+paginate = 5
+
+pygmentsstyle = "colorful"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+[taxonomies]
+	tag = "tags"
+	series = "series"
+
+[params]
+        subtitle = " "
+	disableDisqusTypes = ["page"]
+# Nav.
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+
+[[menu.main]]                                                                                                                                                                                 
+name = "All posts"                                                                                                                                                                            
+url = "/posts"                                                                                                                                                                                
+weight = 2  
+
+[[menu.main]]                                                                                                                                                                                 
+name = "Projects"                                                                                                                                                                            
+url = "/projects"
+weight = 2  
+
+[[params.social]]
+name = "Github"
+icon = "fab fa-github"
+url = "https://github.com/wleithauser"
+
+[[params.social]]
+name = "RSS"
+icon = "fas fa-rss"
+url = "/index.xml"
