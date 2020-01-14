@@ -1,4 +1,5 @@
 baseURL = "https://leithauser.xyz/"
+publishDir = "docs"
 languageCode = "en-us"
 title = "William Leithauser"
 theme = "hugo-vitae"
